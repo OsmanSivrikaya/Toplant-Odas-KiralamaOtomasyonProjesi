@@ -1,0 +1,5 @@
+DB Name : u7173324_iMRRS
+DB IP No : 94.73.146.4
+DB UserID / Password : u7173324_team5 / NVgq59B4ZZhn33X
+
+Connection String = "Data Source=94.73.146.4;Initial Catalog=u7173324_iMRRS; User Id=u7173324_team5;Password=NVgq59B4ZZhn33X;"
